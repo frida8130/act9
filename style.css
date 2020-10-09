@@ -29,12 +29,12 @@ body{
  font-size: 20px;
 }
 .controls{
-    color:rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
    width: 100%;
     border:1px solid#017bab ;
     margin-bottom: 15px;
     padding:11px 10px;
-    background:#000000;
+    background:#767575;
     font-size:14px ;
    font-weight: bold;
 }
