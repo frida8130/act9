@@ -1,4 +1,3 @@
-
 {
     margin: 0;
    padding: 0; 
@@ -29,22 +28,22 @@ body{
  font-size: 20px;
 }
 .controls{
-    color:rgb(230, 230, 230);
+    color:rgb(255, 255, 255);
    width: 100%;
     border:1px solid#017bab ;
     margin-bottom: 15px;
     padding:11px 10px;
-    background:#767575;
+    background:#635a5a;
     font-size:14px ;
    font-weight: bold;
 }
-.buttoms{
+.buttons{
     width: 100%;
     height: 40px;
     background:#017bab;
     border:  none;
-color:white;
-margin-bottom: 16px;
+    color:white;
+     margin-bottom: 40px;
 }
 .form-login p{
     height: 40px;
